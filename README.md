@@ -24,7 +24,7 @@ Installation
 sh
 Copy
 Edit
-git clone https://github.com/yourgithub/news-aggregator-hub.git
+git clone https://github.com/GitHubKanahiya/News-Aggregator-Hub.git
 cd news-aggregator-hub
 npm install
 npm start
